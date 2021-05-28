@@ -1,0 +1,2 @@
+rootProject.name = "camera_integration_android"
+include ':app'
